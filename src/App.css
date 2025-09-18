@@ -39,15 +39,12 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   font-family: sans-serif;
-  margin: 20px;
   padding: 0;
   background-color: #1A2A33;
 }
 
 .container {
   margin: 0 auto;
-  width: 400px;
-  padding: 24px 24px;
 }
 
 .header {
@@ -243,16 +240,12 @@ button {
 @media(width >= 768px) {
   .container {
     margin: 0 auto;
-    padding: 200px 154px;
-    width: 768px;
   }
 }
 
 @media(width >= 1110px) {
   .container {
     margin: 0 auto;
-    padding: 139px 490px;
-    width: 768px;
   }
 
   .game-board {
